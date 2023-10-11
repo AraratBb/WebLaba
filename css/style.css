@@ -1,0 +1,93 @@
+body {
+    padding-top: 70px;
+}
+
+.count-input {
+	width:10%;
+	display: inline;
+}
+
+.add-to-basket-block {
+	margin-top: 7px;
+}
+
+a{ color: black; /* Цвет ссылок */ }
+a:hover{ color: #432FC3;}
+
+a.bg-nref{color: black;}
+
+
+
+.bg-fnav{
+   font-family: Georgia, serif;
+}
+
+a.navbar-brand.bg-fnav{color: black;}
+
+.bg-titles{
+    background-color: rgba(255,195,144, 1.0);
+    border: 0px;
+}
+
+
+.modal-image {
+	width: 100%;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+.pull-right{
+    font: initial;
+}
+
+a.bg-ref{color: black!important; font-family: Georgia, serif;}
+a.bg-ref:hover{color: white!important;}
+
+.caption {
+    height: 100px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+.amount{
+    display: inline;
+}
+.product{
+    display: inline;
+}
+.remove-from-cart{
+    display: inline;
+}
+
+
